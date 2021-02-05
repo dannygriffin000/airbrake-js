@@ -20,7 +20,7 @@
     "@types/request": "2.47.0",
     "@types/sinon": "4.3.1",
     "@types/sinon-chai": "2.7.29",
-    "chai": "4.1.2",
+    "chai": "4.3.0",
     "error-stack-parser": "2.0.1",
     "imports-loader": "0.8.0",
     "karma": "2.0.0",
